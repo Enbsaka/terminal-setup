@@ -1,0 +1,25 @@
+# Zsh cache / dump
+.zcompdump*
+.zcompcache
+
+# Histórico
+.zsh_history
+.bash_history
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (se precisar)
+__pycache__/
+*.pyc
