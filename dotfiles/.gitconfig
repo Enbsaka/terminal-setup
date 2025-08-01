@@ -1,0 +1,9 @@
+[safe]
+	directory = *
+[user]
+	name = enzosaka
+	email = enzo.sakataukas@sisfrete.com.br
+[init]
+	defaultBranch = main
+[core]
+	excludesFile = /home/enzosisfrete/.gitignore_global
