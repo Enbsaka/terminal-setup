@@ -1,0 +1,13 @@
+   # Perfil PESSOAL — faculdade/projetos pessoais                                                                                                                                                                    
+   Host github-pessoal                                                                                                                                                                                               
+       HostName github.com                                                                                                                                                                                           
+       User git                                                                                                                                                                                                      
+       IdentityFile ~/.ssh/id_ed25519_pessoal                                                                                                                                                                  
+       IdentitiesOnly yes                                                                                                                                                                                            
+                                                                                                                                                                                                                     
+   # Perfil EMPRESA — trabalho                                                                                                                                                                                       
+   Host github-empresa                                                                                                                                                                                               
+       HostName github.com                                                                                                                                                                                           
+       User git                                                                                                                                                                                                      
+       IdentityFile ~/.ssh/id_ed25519                                                                                                                                                                  
+       IdentitiesOnly yes
