@@ -1,0 +1,6 @@
+# Lista de pacotes DNF instalados manualmente
+# GERE ESSA LISTA RODANDO (precisa de sudo):
+#   sudo dnf history userinstalled | awk 'NR>2 {print $1}' | grep -v "^$" | sort -u > packages/dnf.list
+#
+# Para instalar tudo:
+#   sudo dnf install -y $(cat packages/dnf.list)
